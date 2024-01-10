@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Page not found
+title: lab
 permalink: labExam.html
 ---
 
